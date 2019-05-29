@@ -7,3 +7,57 @@ python2 webdav.py http://safemode.co.za zkyd.html
 python2 webdav.py http://allpaint.co.za zkyd.html
 
 python2 webdav.py http://africa-one.co.za zkyd.html
+
+python2 webdav.py http://techdirect.co.za zkyd.html
+
+python2 webdav.py http://tcmgroup.co.za zkyd.html
+
+python2 webdav.py http://thegiftstore.co.za zkyd.html
+
+python2 webdav.py http://tressor.co.za zkyd.html
+
+python2 webdav.py http://quintessential-tours.com zkyd.html
+
+python2 webdav.py http://jormid.net zkyd.html
+
+python2 webdav.py http://stand66.com zkyd.html
+
+python2 webdav.py http://trafficam.co.za zkyd.html
+
+python2 webdav.py http://whadiz.co.za zkyd.html
+
+python2 webdav.py http://windmillsandporcupines.co.za zkyd.html
+
+python2 webdav.py http://bitsandpieces.co.za zkyd.html
+
+python2 webdav.py http://scnc.co.za zkyd.html
+
+python2 webdav.py http://contsol.co.za zkyd.html
+
+python2 webdav.py http://colourfactory.co.za zkyd.html
+
+python2 webdav.py http://ayk.co.za zkyd.html
+
+python2 webdav.py http://foodconsult.co.za zkyd.html
+
+python2 webdav.py http://itsengineering.co.za zkyd.html
+
+python2 webdav.py http://holotropicbreathwork.co.za zkyd.html
+
+python2 webdav.py http://lwrm.co.za zkyd.html
+
+python2 webdav.py http://lpenterprises.co.za zkyd.html
+
+python2 webdav.py http://kwalitycommodities.co.za zkyd.html
+
+python2 webdav.py http://mestern.co.za zkyd.html
+
+python2 webdav.py http://my-resume.biz zkyd.html
+
+python2 webdav.py http://mpark.co.za zkyd.html
+
+python2 webdav.py http://lucaniphysio.co.za zkyd.html
+
+python2 webdav.py http://www.pipelinetape.co.za zkyd.html
+
+python2 webdav.py http://www.drcrsaexpress.co.za zkyd.html
