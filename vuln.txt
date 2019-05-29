@@ -1,0 +1,9 @@
+python2 webdav.py http://thepremiummakers.com zkyd.html
+
+python2 webdav.py http://thefoundation.co.za zkyd.html
+
+python2 webdav.py http://safemode.co.za zkyd.html
+
+python2 webdav.py http://allpaint.co.za zkyd.html
+
+python2 webdav.py http://africa-one.co.za zkyd.html
